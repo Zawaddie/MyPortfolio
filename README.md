@@ -6,16 +6,16 @@ This repository serves as a central hub where you can find information and links
 
 Each project highlights a different aspect of my skill set and demonstrates my ability to apply the knowledge and experience gained throughout my career growth to solve real-world technical challenges.
 
-The projects cover the following domains:
+The projects covers the following domains:
 
-* **Telecommunications** – Reflects the knowledge built from my Electrical and Telecommunications Engineering foundation.
-* **Networking** – Demonstrates growing infrastructure design, configuration, and optimization competence.
-* **Security** – Showcases defensive, analytical, and incident-response skills developed through continuous cybersecurity operations and labs.
-* **Cloud** – Represents skills acquired through cloud computing learning paths and modern enterprise security practices.
-* **Programming** – Highlights an automation-driven and scalability-focused mindset through practical tool and script development.
+* **Telecommunications**: Reflects the knowledge built from my Electrical and Telecommunications Engineering foundation.
+* **Networking**: Demonstrates growing infrastructure design, configuration, and optimization competence.
+* **Security**: Showcases defensive, analytical, and incident-response skills developed through continuous cybersecurity operations and labs.
+* **Cloud**: Represents skills acquired through cloud computing learning paths and modern enterprise security practices.
+* **Programming**: Highlights an automation-driven and scalability-focused mindset through practical tool and script development.
 
 
-Most of these projects are stored in private repositories, but I've provided a snapshot of what each project entails. Feel free to explore and learn more about each one!
+Some of these projects are stored in private repositories, but I've provided a snapshot of what each project entails. Feel free to explore and learn more about each one!
 
 ### 🔗 Projects Overview
 
@@ -34,8 +34,6 @@ Below is a list of the projects, each with a brief description and a link to its
 | 9 | **Security Automation Programming Toolkit**              | Python, Regex, ReportLab, Git              | • Built CLI port scanner.<br>• Parsed security logs.<br>• Generated PDF reports.<br>• Modular reusable scripts.                                          | [Learn more]() |
 
 
-
-
-### 🚀 Get in Touch
+---
 
 Feel free to explore the projects and reach out if you have any questions or collaboration ideas. I'm always excited to connect with fellow developers and enthusiasts.
