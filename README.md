@@ -1,4 +1,4 @@
-# My Projects Portfolio
+# Personal Projects Portfolio
 
 Welcome to my personal projects portfolio.
 
